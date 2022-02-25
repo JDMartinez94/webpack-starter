@@ -1,0 +1,12 @@
+html,
+body {
+  margin: 0;
+  background-color: grey;
+}
+
+img {
+  width: 65px;
+  height: 65px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
